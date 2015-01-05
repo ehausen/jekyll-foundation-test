@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome!
+title: Testing... Welcome!
 description: This is my site. Welcome.
 keywords: github pages, Jekyll, foundation 5
 ---
