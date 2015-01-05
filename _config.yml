@@ -1,10 +1,10 @@
 name : Foundation/Jykill starter
-brand : My Site
+brand : My Test Site
 description : This is the description of my site
 keyword: 
-url : http://daigo.org
-imageurl: http://www.daigo.org/wordpress/wp-content/themes/daigo_org-theme-2013/img/glasses.png
-email : daigo@daigofujiwara.com
+url : http://vulfox.github.io/jekyll-foundation-test/
+imageurl: http://vulfox.github.io/jekyll-foundation-test/
+email : 
 twitter : DaigoFuji
 github : DaigoFuji
 author: Daigo Fujiwara
