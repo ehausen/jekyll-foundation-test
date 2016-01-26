@@ -7,6 +7,7 @@ keywords: github pages, Jekyll, foundation 5
 
 <h1 class="mvl">Whoa! Jekyll, Foundation 5, HTML5 boilerplate and github pages!</h1>
 
+<h2>This page is just a test</h2>
 
 <div class="row">
 	<div class="medium-9 large-7 small-centered column">
